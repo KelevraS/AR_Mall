@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc915093-07b1-426d-8670-cea7e0752a2e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/AnimationTest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/AnimationTest.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Jacket.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Jacket.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/jacket.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/jacket.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +36,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildActions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/MeshLogger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/AndroidDevelopment.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BuildActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/MeshLogger.cs" />
       </list>
     </option>
   </component>
@@ -88,6 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598875315628</updated>
       <workItem from="1598875330877" duration="2672000" />
+      <workItem from="1599469233430" duration="5014000" />
     </task>
     <servers />
   </component>
@@ -106,11 +111,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1599479959069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040/-1920.-78.1920.1040@0.0.1920.1040" timestamp="1599479959069" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1598875832690">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
