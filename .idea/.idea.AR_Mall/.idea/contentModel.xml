@@ -8,6 +8,14 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="AlembicToVAT" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ATV_Editor.cs" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="VATMaterial.shader" t="Include" />
+          </e>
+        </e>
         <e p="Editor" t="Include">
           <e p="BuildActions.cs" t="Include" />
           <e p="MeshLogger.cs" t="Include" />
@@ -353,6 +361,11 @@
         <e p="Pooling" t="Include">
           <e p="Pooling.asmdef" t="Include" />
           <e p="PoolingObjects.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ClothSystem.cs" t="Include" />
+          <e p="ClothTimer.cs" t="Include" />
+          <e p="MeshController.cs" t="Include" />
         </e>
         <e p="Tayx" t="Include">
           <e p="Graphy - Ultimate Stats Monitor" t="Include">
