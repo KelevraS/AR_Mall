@@ -20,15 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc915093-07b1-426d-8670-cea7e0752a2e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Girl.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Girl.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FPL_ISBIT/Female_CharacterPack/Material/Female/bb_sportswear_sweater_granit_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FPL_ISBIT/Female_CharacterPack/Material/Female/bb_sportswear_sweater_granit_mat.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/AnimationTest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/AnimationTest.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClothTimer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClothTimer.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +48,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MeshController.cs" />
         <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.formats.alembic@1.0.7/Runtime/Scripts/Importer/AlembicStreamPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ClothABCTimer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ClothTimer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ClothSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClothTimer.cs" />
       </list>
     </option>
   </component>
@@ -107,6 +101,7 @@
       <workItem from="1599469233430" duration="5014000" />
       <workItem from="1599657897990" duration="2098000" />
       <workItem from="1599726276128" duration="10872000" />
+      <workItem from="1599813662044" duration="4546000" />
     </task>
     <servers />
   </component>
