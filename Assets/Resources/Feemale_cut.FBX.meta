@@ -3,7 +3,47 @@ guid: 73bace7bd0652284a94b18bb349b3cd5
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyes_D
+    second: {fileID: 2100000, guid: 2e3ca90c46243554d9fe66e9d6a04d99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LoveGlove_albedo_2K
+    second: {fileID: 2100000, guid: 5933efccb9621ff408671d5c39ddeff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #25
+    second: {fileID: 2100000, guid: 299337ecb3b4f3549a833021be85123e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bb_female_hair_mat
+    second: {fileID: 2100000, guid: 5e79250223e14574592373908bd40f94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bb_female_shoes_tall_mat
+    second: {fileID: 2100000, guid: 05f700847d8769f479f2b7f5aafa5258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bb_male_mat
+    second: {fileID: 2100000, guid: 7775b7598ad28cc4cb624441df2d02b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bb_sportswear_pants_granit_mat
+    second: {fileID: 2100000, guid: 9ab9d1c419c5dcc4b8c9b52ffbb7302b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bb_sportswear_sweater_granit_mat
+    second: {fileID: 2100000, guid: d2aae24401f0f014f88f74531c30c448, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

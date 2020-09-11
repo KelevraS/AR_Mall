@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc915093-07b1-426d-8670-cea7e0752a2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Mall/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Export/Resources/AlembicVAT_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Export/Resources/AlembicVAT_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/AnimationTest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/AnimationTest.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClothTimer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClothTimer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BakedGirl.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/BakedGirl.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +42,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.formats.alembic@1.0.7/Runtime/Scripts/Importer/AlembicStreamPlayer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClothSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AlembicToVAT/Editor/ATV_Editor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClothTimer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/MeshLogger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -50,6 +58,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ClothABCTimer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ClothSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ClothTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Color.shader" />
       </list>
     </option>
   </component>
